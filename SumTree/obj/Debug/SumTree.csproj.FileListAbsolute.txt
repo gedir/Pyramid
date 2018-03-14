@@ -1,0 +1,12 @@
+C:\Gdrv\CodeLab\SumTree\bin\Debug\SumTree.exe.config
+C:\Gdrv\CodeLab\SumTree\bin\Debug\SumTree.exe
+C:\Gdrv\CodeLab\SumTree\bin\Debug\SumTree.pdb
+C:\Gdrv\CodeLab\SumTree\obj\Debug\SumTree.frmTask.resources
+C:\Gdrv\CodeLab\SumTree\obj\Debug\SumTree.Properties.Resources.resources
+C:\Gdrv\CodeLab\SumTree\obj\Debug\SumTree.csproj.GenerateResource.Cache
+C:\Gdrv\CodeLab\SumTree\obj\Debug\SumTree.exe
+C:\Gdrv\CodeLab\SumTree\obj\Debug\SumTree.pdb
+C:\Gdrv\CodeLab\SumTree\obj\Debug\SumTree.csprojResolveAssemblyReference.cache
+C:\AppDev\Pyramid\Pyramid\SumTree\bin\Debug\SumTree.exe.config
+C:\AppDev\Pyramid\Pyramid\SumTree\obj\Debug\SumTree.exe
+C:\AppDev\Pyramid\Pyramid\SumTree\obj\Debug\SumTree.pdb
